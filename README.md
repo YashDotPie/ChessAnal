@@ -1,4 +1,4 @@
-##Advanced Chess Game
+<h1>Advanced Chess Game</h1>
 
 #Overview
 
