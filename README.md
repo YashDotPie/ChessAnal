@@ -31,7 +31,7 @@ If you wish to play against the computer or use the analysis features, you will 
 
 Recommended Engine: Stockfish
 
-Setup: Download the engine executable (e.g., stockfish.exe or stockfish) and either place it in the project's root directory or update the STOCKFISH_PATH variable within the chess.txt file to point to its location.
+Setup: Download the engine executable (e.g., stockfish.exe or stockfish) and either place it in the project's root directory or update the STOCKFISH_PATH variable within the chess.py file to point to its location.
 
 <h2>Installation and Setup</h2>
 
